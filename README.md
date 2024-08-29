@@ -39,6 +39,6 @@ This is a simple Pokemon app built with React.js (frontend) and Express.js (back
    ```bash
    npm install
    
--  Start the backend:
+-  Start the frontend:
    ```bash
    npm start
